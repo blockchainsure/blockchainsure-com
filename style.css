@@ -1,3 +1,6 @@
+/* All code copyright Blockchainsure Labs. All rights reserved. */
+/* blockchainsure.com | Twitter: @blockchainsure */
+
 /* poppins-200 - latin */
 @font-face {
     font-family: 'Poppins';
@@ -142,7 +145,7 @@
   .text h2 {
     font-size: 4em;
     font-weight: 700;
-    line-height: 1em;
+    line-height: 1.1em;
   }
 
   .text h3 {
