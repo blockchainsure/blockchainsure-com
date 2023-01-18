@@ -145,7 +145,7 @@
   .text h2 {
     font-size: 4em;
     font-weight: 600;
-    line-height: 1em;
+    line-height: 1.1em;
   }
 
   .text h3 {
@@ -169,7 +169,7 @@
 
   .learn-more {
     background: #fb454c;
-    padding: 16px 26px;
+    padding: 15px 26px;
     color: #fff;
     text-decoration: none;
     border: 1px solid #fb454c;
@@ -187,7 +187,7 @@
 
   .contact-us {
     background: none;
-    padding: 16px 26px;
+    padding: 15px 26px;
     color: #fff;
     text-decoration: none;
     border: 1px solid;
