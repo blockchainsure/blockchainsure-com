@@ -169,7 +169,7 @@
 
   .learn-more {
     background: #fb454c;
-    padding: 15px 26px;
+    padding: 13px 20px;
     color: #fff;
     text-decoration: none;
     border: 1px solid #fb454c;
@@ -187,10 +187,10 @@
 
   .contact-us {
     background: none;
-    padding: 15px 26px;
+    padding: 13px 20px;
     color: #fff;
     text-decoration: none;
-    border: 1px solid;
+    border: 1px solid #fff;
     font-size: 0.9em;
     margin-left: 20px;
     margin-top: 10px;
@@ -200,6 +200,8 @@
   
   .contact-us:hover {
     color: #d3d3d3;
+    background: none;
+    border: 1px solid #d3d3d3;
   }
 
   .social {
