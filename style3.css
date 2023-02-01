@@ -128,5 +128,19 @@ button {
     background: transparent;
     cursor: pointer;
 }
+
+@media (max-width: 499px) {
+    form {
+      width: 80%;
+      left: 5%;
+    }
+    h1 {
+      font-size: 1.5em;
+    }
+    button {
+      width: 80%;
+    }
+  }
+
 /* All code copyright Blockchainsure Labs. All rights reserved. */
 /* blockchainsure.com | Twitter: @blockchainsure */
