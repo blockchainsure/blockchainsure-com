@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /7honeypot
+Disallow: /7honeypot/
 
-Sitemap: http://www.blockchainsure.com/site_map.xml 
+Sitemap: http://www.blockchainsure.com/sitemap.xml
